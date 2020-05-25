@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1570567788 source:c:\users\dell\desktop\ece 150\project1\project1\delimeters.cpp
+	<iostream>
+	<cassert>
+	"project_1.hpp"
+
+1570389188 c:\users\dell\desktop\ece 150\project1\project1\project_1.hpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cassert>
+
+1570412120 source:c:\users\dell\desktop\ece 150\project1\project1\delimiters.cpp
+	<iostream>
+	<cassert>
+	"project_1.hpp"
+
